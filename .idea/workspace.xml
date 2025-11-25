@@ -41,43 +41,13 @@
       <change afterPath="$PROJECT_DIR$/../ADO3/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ADO3/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ADO3/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Game-Api-Catalog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Game-Api-Catalog-front" beforeDir="false" afterPath="$PROJECT_DIR$/../Game-Api-Catalog-front" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/QuarkusDeploymentProjectService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QuarkusDeploymentProjectService.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game-Api-Catalog-front" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/API-CaoAmigo-dev.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/build-metrics.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/branding/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/branding/smallrye-open-api-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/import.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/Desenvolvedora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/DesenvolvedoraResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/Genero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/GeneroResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/Jogo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/JogoResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/RateLimitingFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/SearchDesenvolvedoraResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/SearchGeneroResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/SearchJogoResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/exception/ValidationExceptionMapper$ErrorBody.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/exception/ValidationExceptionMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/idempotency/IdempotencyFilter$IdempotencyRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/idempotency/IdempotencyFilter$IdempotentContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/idempotency/IdempotencyFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/acme/idempotency/Idempotent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/null/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/null/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/null/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/null/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/acme/RateLimitingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/acme/RateLimitingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/API-CatalogGame-dev.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/build-metrics.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/build-metrics.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/quarkus/bootstrap/dev-app-model.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/quarkus/bootstrap/test-app-model.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/acme/GreetingResourceIT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/acme/GreetingResourceTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +99,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Gabriel/OneDrive - SENAC - SP/Documentos/projetos/api-catalog-A"
+    "last_opened_file_path": "C:/Users/Gabriel/OneDrive - SENAC - SP/Documentos/projetos/api-catalog-game"
   }
 }]]></component>
   <component name="RunDashboard">
